@@ -153,6 +153,10 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
+- Name: Yonashenok
+
+- Name: Abbas-Aljuaifari
+
 Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
