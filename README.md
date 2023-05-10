@@ -140,6 +140,11 @@ To run the project, execute the following command:
 - Twitter: [@yonashenok](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yonas-henok-996a26217)
 
+👤 **Author2**
+
+- GitHub: [@Abbas-Aljuaifari](https://github.com/Abbas-Aljuaifari)
+- LinkedIn: [Abbas(fares)Aljuaifari](https://www.linkedin.com/in/abbas-aljuaifari-17a018261/)
+
 <!-- FUTURE FEATURES -->
 
 <!-- CONTRIBUTING -->
